@@ -1,0 +1,5 @@
+#Add a .gitignore file to the project and configure it to hide files with the extension .db, .log and directories with the names target or bin.
+*.db
+*.log
+target/
+bin/
